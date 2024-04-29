@@ -1,3 +1,3 @@
-#Demo 2
+# Demo repo
 
 Some text
